@@ -1,5 +1,5 @@
 {
-    "name": "codeconsortium/ccdn-component-dashboard-bundle",
+    "name": "emgiezet/ccdn-component-dashboard-bundle",
     "type": "symfony-bundle",
     "description": "CCDN Component Dashboard Bundle",
     "keywords": ["ccdn", "codeconsortium", "dashboard"],
@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "2.1.*",
+        "symfony/symfony": "2.2.x-dev",
         "doctrine/doctrine-bundle": "*"
     },
     "autoload": {
